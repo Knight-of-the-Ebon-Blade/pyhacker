@@ -1,4 +1,4 @@
-![image](https://github.com/Knight-of-the-Ebon-Blade/pyhacker/assets/35064319/5b0c726f-d3cf-4a41-9aa3-078e58db5611)# pyhacker
+# pyhacker
 向pyc中插入python代码或shellcode
 
 使用方法：
